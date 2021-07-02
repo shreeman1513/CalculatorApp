@@ -1,0 +1,29 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  width:100%;
+  margin-top:100px;
+
+}
+.calc-wrapper{
+  width:400px;
+  height:600px;
+
+}
+.row{
+  display: flex;
+  width:100%;
+}
+
+header{
+  margin:50px;
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+  color:darkred;
+  align-items: center;
+  
+}
